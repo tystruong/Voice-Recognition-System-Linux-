@@ -1,1 +1,1 @@
-Placeholder: Python developed voice recognition system using STT (Speech-to-Text).
+Bash and Python voice recognition system developed in Linux using STT (Speech-to-Text).
